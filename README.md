@@ -1,6 +1,7 @@
 # Flutter Page Navigation Project
+We can use Navigator.push() to move to a new path and Navigator.pop() to move to the previous path. The route is managed by the Navigator widget. The Navigator manages various routes. Items can be pushed onto the stack using the push() method and popped off the stack using the pop() method. The item at the top of the stack is the current working method. The Navigator is a state widget whose state is NavigatorState. In this project, we will learn how to move from one screen to another in Flutter.
 
---Download Flutter
+# Download Flutter
 - Visit the official Flutter site `https://docs.flutter.dev/get-started/install`
 - Extract the downloaded file, e.g., C:\src\flutter.
 - Add the flutter/bin directory to your system's 'PATH' 
